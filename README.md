@@ -9,7 +9,7 @@
 
 
 
-To do:
+### To do:
 - [ ] Data Augmentation.
 - [ ] Test the model on drions-DB dataset.
 - [ ] Modify the architecture for better accuracy.
